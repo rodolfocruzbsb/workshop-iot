@@ -7,19 +7,19 @@ O projeto apresentado está disponível neste github para download, e se trata d
 
 Materiais do projeto
 --------------------
-*Arduino UNO(ou compatível)
-*Protoboard
-*LCD16x2
-*Potenciômetro B10K
-*LM35
-*Jumpers diversos
+* Arduino UNO(ou compatível)
+* Protoboard
+* LCD16x2
+* Potenciômetro B10K
+* LM35
+* Jumpers diversos
 
 Itens disponíveis
 ------------------
-*`sensor_temperatura.ino`: Código fonte do arduino
-*`projeto.JPG`: Imagem do projeto Real
-*`sensor_temperatura_com_display_LCD.fzz`:	Arquivos do Projeto	Fritzing
-*`sensor_temperatura_com_display_LCD.png`: Imagem do projeto Fritzing
+* `sensor_temperatura.ino`: Código fonte do arduino
+* `projeto.JPG`: Imagem do projeto Real
+* `sensor_temperatura_com_display_LCD.fzz`:	Arquivos do Projeto	Fritzing
+* `sensor_temperatura_com_display_LCD.png`: Imagem do projeto Fritzing
 
  Materiais para download
  -----------------------
