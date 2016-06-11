@@ -21,8 +21,8 @@ Itens disponíveis
 * `sensor_temperatura_com_display_LCD.fzz`:	Arquivos do Projeto	Fritzing
 * `sensor_temperatura_com_display_LCD.png`: Imagem do projeto Fritzing
 
- Materiais para download
- -----------------------
+Materiais para download
+-----------------------
 [Slides](http://pt.slideshare.net/rodolfocruz121/iot-internet-of-things-do-bsico-ao-hello-world)
 
 [Projeto Arduino](http://fritzing.org/projects/sensor-de-temperatura-lm35-com-lcd-16x2)
