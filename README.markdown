@@ -33,5 +33,5 @@ Skype: rodolfocruz121
 
 Gmail: rodolfocruz.ti@gmail.com
 
-Twitter: @RodolfozurcsTI
+Twitter: [@RodolfocruzTi](https://twitter.com/RodolfocruzTi)
 
